@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://themes.gohugo.io/theme/hugo-theme-lean-launch-page/"
 title = "My New Product"
 author = "Ricardo N Feliciano (FelicianoTech)"
 canonifyurls = true
@@ -16,8 +16,3 @@ twitter = "https://twitter.com/MyNewProduct"
 facebook = "https://facebook.com/MyNewProduct"
 instagram = "https://instagram.com/MyNewProduct"
 googleplus = "https://plus.google.com/+MyNewProduct"
-
-# RSS, categories and tags disabled for an easy start
-# See configuration options for more details: 
-# https://gohugo.io/getting-started/configuration/#toml-configuration
-disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
